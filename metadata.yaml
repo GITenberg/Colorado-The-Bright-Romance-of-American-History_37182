@@ -1,0 +1,33 @@
+_repo: Colorado-The-Bright-Romance-of-American-History_37182
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: True, Allen Tupper
+    alias: True, Allen T.
+    birthdate: 1881
+    deathdate: 1955
+    gutenberg_agent_id: '36809'
+    url: http://www.gutenberg.org/2009/agents/36809
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grable, F. C.
+    gutenberg_agent_id: '38690'
+    url: http://www.gutenberg.org/2009/agents/38690
+description: ''
+gutenberg_issued: '2011-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37182'
+  lccn: '19010131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colorado -- History'
+- !lcc 'F721'
+title: Colorado—The Bright Romance of American History
+url: http://www.gutenberg.org/ebooks/37182
